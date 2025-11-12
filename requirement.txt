@@ -1,11 +1,23 @@
-torch
+# Core Deep Learning 
+torch               ## ResNet, CNN
 torchvision
-facenet-pytorch
-opencv-python
-tqdm
+
+# Computer Vision
+facenet-pytorch     ## Read, process and extract frames from videos
+opencv-python       ## Detect and crop faces (MTCNN)
+
+
+# Data Handling
+tqdm                ## Progress bar animation
 pandas
 numpy
-scikit-learn
+scikit-learn        ## Metrics (accuracy, precision, recall, etc)
+
+# Visualization
 matplotlib
+
+# Webapp
 streamlit
+
+# Download 
 yt-dlp
